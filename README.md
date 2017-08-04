@@ -2,8 +2,8 @@
 
 在使用编辑cosx主站时打开图片生成对应图片URL，引入markdown代码即可
 
-## For example:
-
 ***
+
+### 举个栗子:
 
 ![图1](https://github.com/GunnerDJT/Picture_TaiyuanR/blob/master/1.jpg?raw=true)
